@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 必要文件下载
 
-You can use the [editor on GitHub](https://github.com/52blog/download.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 系统必备DLL文件
 
-### Markdown
+[点击下载](https://wwx.lanzoux.com/izNPXia1l6b)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### VS2013
 
-```markdown
-Syntax highlighted code block
+[点击下载](http://download.microsoft.com/download/0/7/5/0755898A-ED1B-4E11-BC04-6B9B7D82B1E4/VS2013_RTM_ULT_CHS.iso)
 
-# Header 1
-## Header 2
-### Header 3
+### VS2015
 
-- Bulleted
-- List
+[点击下载](http://download.microsoft.com/download/3/3/6/336866a1-d634-40c9-b3e5-9e582cb2151e/vs2015.2.ent_chs.iso)
 
-1. Numbered
-2. List
+### VS2019
 
-**Bold** and _Italic_ and `Code` text
+[点击下载](https://visualstudio.microsoft.com/zh-hans/thank-you-downloading-visual-studio/?sku=Community&rel=16)
 
-[Link](url) and ![Image](src)
-```
+### 无广告输入法
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[点击下载](http://down1.xinshuru.com/installer/win/PalmInput_Setup.exe)
 
-### Jekyll Themes
+### Phpstudy
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/52blog/download.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[点击下载](https://public.xp.cn/upgrades/phpStudy_64.zip)
 
-### Support or Contact
+### DX在线更新（游戏加速）
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[点击下载](https://www.microsoft.com/zh-cn/download/confirmation.aspx?id=35)
+
+### NET4.5
+
+[点击下载](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe)
+
+
+
